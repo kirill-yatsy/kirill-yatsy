@@ -18,8 +18,6 @@ I'm a crazy mix of Data Scientist and Front-end engineer
 - Styles: CSS3, Tailwind CSS
 - Tools: single-spa, webpack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirill-yatsy&layout=donut)
-
 ## Latest Deep Learning projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-yatsy&repo=algorithm_distillation)](https://github.com/kirill-yatsy/algorithm_distillation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-yatsy&repo=MNIST-Autoencoder)](https://github.com/kirill-yatsy/MNIST-Autoencoder)
@@ -27,3 +25,6 @@ I'm a crazy mix of Data Scientist and Front-end engineer
 ## Kaggle projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-yatsy&repo=BirdCLEF_2024)](https://github.com/kirill-yatsy/BirdCLEF_2024)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-yatsy&repo=LMSYS)](https://github.com/kirill-yatsy/LMSYS)
+
+## Statistic 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirill-yatsy&layout=donut)
