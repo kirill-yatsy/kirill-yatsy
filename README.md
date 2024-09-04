@@ -7,8 +7,8 @@ I'm a crazy mix of Data Scientist and Front-end engineer
 [![Telegram Badge](https://img.shields.io/badge/-kirill.yatsy-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/yatsy)](https://t.me/yatsy)
 
 ## Data Science Skills
-- Python: NumPy, Pandas, Scikit-learn
-- Machine Learning: Regression, Classification, Clustering
+- Python: NumPy, Pandas
+- Machine Learning: Scikit-learn
 - Deep Learning: Pytorch, Ignite, Lighting
 - Data Visualization: Matplotlib, Seaborn
  
@@ -20,9 +20,10 @@ I'm a crazy mix of Data Scientist and Front-end engineer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirill-yatsy&layout=donut)
 
-## Latest projects
-
+## Latest Deep Learning projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-yatsy&repo=algorithm_distillation)](https://github.com/kirill-yatsy/algorithm_distillation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-yatsy&repo=MNIST-Autoencoder)](https://github.com/kirill-yatsy/MNIST-Autoencoder)
+
+## Kaggle projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-yatsy&repo=BirdCLEF_2024)](https://github.com/kirill-yatsy/BirdCLEF_2024)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-yatsy&repo=LMSYS)](https://github.com/kirill-yatsy/LMSYS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-yatsy&repo=MNIST-Autoencoder)](https://github.com/kirill-yatsy/MNIST-Autoencoder)
