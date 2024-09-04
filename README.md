@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**kirill-yatsy/kirill-yatsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a crazy mix of Data Scientist and Front-end engineer
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-yatsy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yatsy/)](https://www.linkedin.com/in/yatsy/)
+[![Gmail Badge](https://img.shields.io/badge/-kirill.yatsy-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kirill.yatsy@gmail.com)](mailto:kirill.yatsy@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-kirill.yatsy-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/yatsy)](https://t.me/yatsy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Data Science Skills
+- Python: NumPy, Pandas, Scikit-learn
+- Machine Learning: Regression, Classification, Clustering
+- Deep Learning: Pytorch, Ignite, Lighting
+- Data Visualization: Matplotlib, Seaborn
+ 
+## Front-end Engineering Skills
+- Languages: JavaScript, TypeScript
+- Frameworks: React.js, Svelte
+- Styles: CSS3, Tailwind CSS
+- Tools: single-spa, webpack
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirill-yatsy&layout=donut)
+
+## Latest projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-yatsy&repo=algorithm_distillation)](https://github.com/kirill-yatsy/algorithm_distillation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-yatsy&repo=BirdCLEF_2024)](https://github.com/kirill-yatsy/BirdCLEF_2024)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-yatsy&repo=LMSYS)](https://github.com/kirill-yatsy/LMSYS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-yatsy&repo=MNIST-Autoencoder)](https://github.com/kirill-yatsy/MNIST-Autoencoder)
