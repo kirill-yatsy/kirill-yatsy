@@ -14,7 +14,7 @@ I'm a crazy mix of Data Scientist and Front-end engineer
  
 ## Front-end Engineering Skills
 - Languages: JavaScript, TypeScript
-- Frameworks: React.js, Svelte
+- Libraries: React.js, Svelte
 - Styles: CSS3, Tailwind CSS
 - Tools: single-spa, webpack
 
